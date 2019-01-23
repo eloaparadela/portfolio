@@ -307,7 +307,7 @@
 		  {
 			width: value + "%"
 		  },
-		  13000,
+		  18000,
 		  function() {
 			$(".speech-bubble").fadeIn();
 		  }
